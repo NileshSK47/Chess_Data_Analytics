@@ -1,2 +1,3 @@
 # Chess_Data_Analytics
+Kaggle dataset link: https://www.kaggle.com/datasets/surajjha101/fide-chess-rankings-updated
 Project isnt complete yet it is to be updated further...
